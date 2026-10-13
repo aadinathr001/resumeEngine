@@ -1,0 +1,6 @@
+{
+  "summary": "Architectural and user experience plan for ResumeIQ, featuring a multi-provider AI extraction engine (Ollama, Groq, OpenAI, Gemini), deterministic evidence verification, canonical skill normalization, reproducible weighted scoring, and a Technical Swiss design system.",
+  "updatedAt": "2026-10-13T16:53:07.098460276Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

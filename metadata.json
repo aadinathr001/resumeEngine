@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ — Evidence-Based Resume & Job Matching Engine",
+  "description": "Multi-provider, evidence-grounded resume intelligence platform featuring deterministic scoring, canonical skill normalization, and explainable compatibility reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
